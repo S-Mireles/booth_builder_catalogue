@@ -13,3 +13,8 @@ Don't edit these files by hand. The app's catalogue build writes them from the a
 
 Files are named after their content, so a published file never changes; the build deletes those no longer listed.
 `.nojekyll` makes Pages serve the files as they are.
+
+## Licence
+
+Copyright © 2026 Robinson Show Services. All rights reserved: the files are for the Booth Builder app only. See
+[LICENSE.md](LICENSE.md).
