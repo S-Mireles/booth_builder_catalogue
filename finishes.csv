@@ -1,0 +1,33 @@
+id,name,colour,metallic,roughness,set
+metal_chrome,Chrome,#c8c8c8,1,0.08,metal_polished
+metal_steel_brushed,Brushed steel,#b4b4b4,1,0.35,metal_brushed
+metal_aluminium,Silver,#c8cacc,1,0.3,metal_brushed
+metal_gunmetal,Gunmetal,#4a4c50,1,0.35,metal_brushed
+metal_brass,Brass,#c9a45c,1,0.3,metal_brushed
+metal_copper,Copper,#c8805a,1,0.3,metal_brushed
+metal_black_powder,Black,#222222,0,0.5,powder_coat
+metal_grey_powder,Grey,#46494e,0,0.5,powder_coat
+wood_walnut,Walnut,#5a3a22,0,0.55,wood_walnut
+wood_oak,Oak,#b48a5a,0,0.6,wood_oak
+wood_rustic,Rustic,#7a5a3c,0,0.7,wood_rustic
+wood_painted_white,Arctic White,#e8e6e0,0,0.6,wood_painted
+leather_black,Black,#161616,0,0.45,leather
+leather_white,White,#e6e4df,0,0.45,leather
+leather_brown,Brown,#6b4a33,0,0.5,leather
+fabric_grey,Grey,#7a7a78,0,0.9,fabric_weave
+fabric_velvet_rose,Rose,#d9aba6,0,0.85,fabric_velvet
+fabric_black,Black,#1a1a1c,0,0.85,fabric_skirt
+fabric_white,White,#edecf0,0,0.85,fabric_skirt
+fabric_burgundy,Burgundy,#652223,0,0.85,fabric_skirt
+fabric_dark_green,Dark green,#30653d,0,0.85,fabric_skirt
+fabric_blue,Blue,#3b3d73,0,0.85,fabric_skirt
+fabric_silver,Silver,#dfdee6,0,0.5,fabric_skirt
+plastic_black,Black,#1a1a1a,0,0.4,plastic_moulded
+plastic_white,White,#eeeeee,0,0.4,plastic_moulded
+laminate_white,White,#f0f0ee,0,0.35,laminate
+laminate_black,Black,#141414,0,0.35,laminate
+laminate_silver,Silver,#b9bbbe,0,0.45,laminate
+rubber_black,Black,#111111,0,0.8,rubber
+glass_clear,Clear,#ffffff,0,0.05,
+acrylic_clear,Clear,#ffffff,0,0.05,
+concrete,Concrete,#9a9690,0,0.9,concrete
