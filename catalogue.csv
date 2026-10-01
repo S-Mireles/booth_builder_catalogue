@@ -1,8 +1,8 @@
-id,name,categories,traits,price (CAD),model,enabled,colours,pack,pack_bytes,thumbnail
-lo-01,Barcelona Single Seater Leather,Lounge,,100.00,lounge/lo-01.glb,yes,upholstery: leather_white leather_black,packs/lo-01-58442bcab05d7721.pck,2951364,thumbnails/lo-01-65b734b446af3545.webp
-lo-11,Rose Sofa - Velvet - 3 Seat,Lounge,,100.00,lounge/lo-11.glb,yes,,packs/lo-11-c59678ecec8d9504.pck,2259140,thumbnails/lo-11-01429498195d0556.webp
-lo-19,Santiago Chair - White,Lounge,,100.00,lounge/lo-19.glb,yes,,packs/lo-19-d594bec3b701c181.pck,2255972,thumbnails/lo-19-7cedc0388b90f13c.webp
-dt-12,Skirted 6' Table - Skirted 3 Sides,Display Tables,surface,100.00,display-tables/dt-12.glb,yes,skirt: fabric_black fabric_white fabric_burgundy fabric_dark_green fabric_blue fabric_silver,packs/dt-12-8a0a00ee2a8c4461.pck,2382604,thumbnails/dt-12-f16f0ba257436a78.webp
-cs-01,Corner Counter Showcase,Counter Showcases,surface,100.00,counter-showcases/cs-01.glb,yes,,packs/cs-01-0f547c350707e5c4.pck,1305580,thumbnails/cs-01-724ac8767c2e9c9b.webp
-di-11,Lightbox,Display Items; Branding,,100.00,display-items/di-11.glb,yes,,packs/di-11-2355ab87f628a00a.pck,934888,thumbnails/di-11-0cae3ddf0d1eab41.webp
-av-01,"70"" Samsung UHD 4K",Monitors & LED Walls; Branding,tchotchke,100.00,monitors-led-walls/av-01.glb,yes,,packs/av-01-0b506fc54cc852db.pck,1431024,thumbnails/av-01-2460f4217a4d3e4b.webp
+id,name,categories,traits,price (CAD),model,enabled,colours,pack,pack_bytes,thumbnail,thumbnail_pack
+lo-01,Barcelona Single Seater Leather,Lounge,,100.00,lounge/lo-01.glb,yes,upholstery: leather_white leather_black,packs/lo-01-58442bcab05d7721.pck,2951364,thumbnails/lo-01-65b734b446af3545.webp,packs/thumbnails-baea504e0f7f39a4.pck
+lo-11,Rose Sofa - Velvet - 3 Seat,Lounge,,100.00,lounge/lo-11.glb,yes,,packs/lo-11-c59678ecec8d9504.pck,2259140,thumbnails/lo-11-01429498195d0556.webp,packs/thumbnails-baea504e0f7f39a4.pck
+lo-19,Santiago Chair - White,Lounge,,100.00,lounge/lo-19.glb,yes,,packs/lo-19-d594bec3b701c181.pck,2255972,thumbnails/lo-19-7cedc0388b90f13c.webp,packs/thumbnails-baea504e0f7f39a4.pck
+dt-12,Skirted 6' Table - Skirted 3 Sides,Display Tables,surface,100.00,display-tables/dt-12.glb,yes,skirt: fabric_black fabric_white fabric_burgundy fabric_dark_green fabric_blue fabric_silver,packs/dt-12-8a0a00ee2a8c4461.pck,2382604,thumbnails/dt-12-f16f0ba257436a78.webp,packs/thumbnails-baea504e0f7f39a4.pck
+cs-01,Corner Counter Showcase,Counter Showcases,surface,100.00,counter-showcases/cs-01.glb,yes,,packs/cs-01-0f547c350707e5c4.pck,1305580,thumbnails/cs-01-724ac8767c2e9c9b.webp,packs/thumbnails-baea504e0f7f39a4.pck
+di-11,Lightbox,Display Items; Branding,,100.00,display-items/di-11.glb,yes,,packs/di-11-2355ab87f628a00a.pck,934888,thumbnails/di-11-0cae3ddf0d1eab41.webp,packs/thumbnails-baea504e0f7f39a4.pck
+av-01,"70"" Samsung UHD 4K",Monitors & LED Walls; Branding,tchotchke,100.00,monitors-led-walls/av-01.glb,yes,,packs/av-01-0b506fc54cc852db.pck,1431024,thumbnails/av-01-2460f4217a4d3e4b.webp,packs/thumbnails-baea504e0f7f39a4.pck
