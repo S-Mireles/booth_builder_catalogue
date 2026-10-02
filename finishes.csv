@@ -1,12 +1,17 @@
 id,name,colour,metallic,roughness,set
 metal_chrome,Chrome,#c8c8c8,1,0.08,metal_polished
 metal_steel_brushed,Brushed steel,#b4b4b4,1,0.35,metal_brushed
+metal_chrome_brushed,Chrome,#b4b4b4,1,0.35,metal_brushed
 metal_aluminium,Silver,#c8cacc,1,0.3,metal_brushed
 metal_gunmetal,Gunmetal,#4a4c50,1,0.35,metal_brushed
+metal_raw_steel,Raw steel,#767b82,0.5,0.62,mill_scale
 metal_brass,Brass,#c9a45c,1,0.3,metal_brushed
+metal_brass_perforated,Brass,#c9a45c,1,0.22,perforated_polished
 metal_copper,Copper,#c8805a,1,0.3,metal_brushed
 metal_black_powder,Black,#222222,0,0.5,powder_coat
 metal_grey_powder,Grey,#46494e,0,0.5,powder_coat
+metal_white_powder,White,#e8e7e3,0,0.45,powder_coat
+metal_light_grey_powder,Light grey,#a9abad,0,0.5,powder_coat
 wood_walnut,Walnut,#5a3a22,0,0.55,wood_walnut
 wood_oak,Oak,#b48a5a,0,0.6,wood_oak
 wood_rustic,Rustic,#7a5a3c,0,0.7,wood_rustic
@@ -22,8 +27,11 @@ fabric_burgundy,Burgundy,#652223,0,0.85,fabric_skirt
 fabric_dark_green,Dark green,#30653d,0,0.85,fabric_skirt
 fabric_blue,Blue,#3b3d73,0,0.85,fabric_skirt
 fabric_silver,Silver,#dfdee6,0,0.5,fabric_skirt
+fabric_boucle_oatmeal,Oatmeal,#d9cfbd,0,0.95,fabric_boucle
 plastic_black,Black,#1a1a1a,0,0.4,plastic_moulded
 plastic_white,White,#eeeeee,0,0.4,plastic_moulded
+plastic_purple,Purple,#8247c8,0,0.4,plastic_moulded
+acrylic_white,White,#f2f2f0,0,0.12,laminate
 laminate_white,White,#f0f0ee,0,0.35,laminate
 laminate_black,Black,#141414,0,0.35,laminate
 laminate_silver,Silver,#b9bbbe,0,0.45,laminate
